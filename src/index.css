@@ -7,4 +7,28 @@
 }
 .nav-link:hover{
     color:white;
+    background-color: gray;
+    border-radius: 5px;
 }
+.dropdown-menu{
+    width: 100%;
+}
+nav ul{
+    /* justify-content: space-between; */
+    margin-left: 20px;
+}
+nav li a{
+    justify-content: space-between;
+}
+/* #input{
+    color: black;
+    width:70%;
+    margin-left: 50px;
+    padding:25px;
+    border:2px solid gray;
+    margin-top: 10px;
+    border-radius: 5px;
+    outline: none;
+    font-size: 25px;
+    font-weight: bold;
+} */
